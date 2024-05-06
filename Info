@@ -2,3 +2,5 @@ Amama Mansoor
 23-st-020
 cout" Sum of two numbers " <<a+b<<endl;
 cout" Difference of two numbers "<<a-b<<endl;
+cout" Product of two numbers "<<a*b<<endl;
+cout" division of two numbers "<<a/b<<endl;
